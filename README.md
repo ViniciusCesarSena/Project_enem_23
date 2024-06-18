@@ -1,10 +1,12 @@
-# Análise do ENEM 2023
 
-![ENEM](https://www.bing.com/images/search?view=detailV2&ccid=5%2bZw6%2fSF&id=EC82ACBF607D8E764864C310878751AC6C1F32CC&thid=OIP.5-Zw6_SF0UDIjpIugbKwVwHaFf&mediaurl=https%3a%2f%2fqi.edu.br%2fwp-content%2fuploads%2f2023%2f06%2flogo-enem.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e7e670ebf485d140c88e922e81b2b057%3frik%3dzDIfbKxRh4cQww%26pid%3dImgRaw%26r%3d0&exph=400&expw=540&q=enem+23&simid=607989919008246987&FORM=IRPRST&ck=CC3914C179936240E87F27D42D066303&selectedIndex=3&itb=1) <!-- Adicione a URL da imagem desejada -->
+![Logo](https://colegiomadrececiliacros.com.br/imgnoticias/enem-2023.png)
+
+# Análise ENEM 2023
+
 
 ## Descrição
 
-Este projeto visa analisar os dados do Exame Nacional do Ensino Médio (ENEM) de 2023, explorando e visualizando informações relevantes sobre a participação dos estudantes, suas notas e outros aspectos importantes. O objetivo é fornecer insights valiosos que possam auxiliar estudantes, educadores e formuladores de políticas na compreensão dos resultados do exame.
+Este projeto visa analisar os dados do Exame Nacional do Ensino Médio (ENEM) de 2023, explorando e visualizando informações relevantes sobre a participação dos estudantes, suas notas e outros aspectos importantes. O objetivo é fornecer insights  que possam auxiliar estudantes, educadores e formuladores de políticas na compreensão dos resultados do exame.
 
 ## Objetivos do Projeto
 
@@ -24,7 +26,7 @@ O projeto está organizado nas seguintes seções:
 - **Visualizações**: Gráficos e outras visualizações geradas a partir dos dados.
 - **Relatórios**: Relatórios detalhados com as conclusões das análises.
 
-## Como Utilizar
+## Utiitários
 
 1. Clone este repositório:
     ```bash
@@ -34,10 +36,7 @@ O projeto está organizado nas seguintes seções:
     ```bash
     cd Project_enem_23
     ```
-3. Instale as dependências necessárias:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 4. Execute os notebooks Jupyter para reproduzir as análises:
     ```bash
     jupyter notebook
@@ -51,7 +50,8 @@ O projeto está organizado nas seguintes seções:
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Plotly
+
 
 ## Contribuições
 
@@ -61,5 +61,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Vinicius Cesar Sena
 
-- [LinkedIn](https://www.linkedin.com/in/vinicius-cesar-sena/)
-- [GitHub](https://github.com/ViniciusCesarSena)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cesar-sena/)
+
+
